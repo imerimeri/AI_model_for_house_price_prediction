@@ -1,4 +1,4 @@
-# House Price Prediction - AI Model
+# House Price Prediction - AI Project
 
 This project aims to predict residential house prices in Ames, Iowa, using advanced regression techniques. The model is built on the **Ames Housing Dataset**, which contains 82 features describing various aspects of residential homes.
 
